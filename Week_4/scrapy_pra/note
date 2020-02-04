@@ -1,0 +1,11 @@
+ ***Scrapy爬虫的使用步骤
+①创建一个工程和spider模版
+②编写spider
+③编写Item Pipeline
+④优化配置策略
+
+***框架的三个类
+①request类：http请求
+②response类：http响应
+③Item类:表示从html页面中提取的信息内容
+
